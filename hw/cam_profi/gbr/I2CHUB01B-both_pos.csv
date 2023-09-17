@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","10u","SMD-0805",8.6360,24.3205,0.0000,bottom
+"C2","100n","SMD-0805",18.0340,16.3830,0.0000,bottom
+"D1","BZV55C","Diode-MiniMELF_Standard",3.9370,24.3840,0.0000,bottom
+"R1","10k","SMD-0805",12.0650,28.1940,0.0000,bottom
+"R2","10k","SMD-0805",12.0650,25.8445,0.0000,bottom
