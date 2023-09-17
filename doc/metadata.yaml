@@ -6,7 +6,16 @@ homepage: false
 images:
 - doc/img/I2CHUB01B_top_small.jpg
 - doc/img/I2CHUB01B_QRcode.png
+- doc/gen/img/I2CHUB01-top.png
+- doc/gen/img/I2CHUB01-bottom.png
+- doc/gen/I2CHUB01-schematic.svg
+- doc/gen/img/I2CHUB01-bottom.svg
+- doc/gen/img/I2CHUB01-top.svg
+- hw/cam_profi/docs/I2CHUB01B-assembly_page_01.svg
+- hw/cam_profi/docs/I2CHUB01B-assembly_page_02.svg
 mark: 50
+mod_ibom: hw/cam_profi/ibom/I2CHUB01-ibom.html
+mod_scheme: doc/gen/I2CHUB01-schematic.pdf
 status: 2
 tags:
 - mlab
