@@ -1,4 +1,5 @@
-description: null
+description: ' The module allow conecting multiple I2C devices together. It does not
+  consist any configurable IO. It is a simple bus multiplyer.'
 github_branch: I2CHUB01B
 github_repo: I2CHUB01
 github_url: https://github.com/mlab-modules/I2CHUB01
