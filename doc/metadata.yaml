@@ -3,6 +3,7 @@ github_branch: I2CHUB01B
 github_repo: I2CHUB01
 github_url: https://github.com/mlab-modules/I2CHUB01
 homepage: false
+image_title: doc/gen/img/I2CHUB01-top.png
 images:
 - doc/img/I2CHUB01B_top_small.jpg
 - doc/img/I2CHUB01B_QRcode.png
